@@ -1,0 +1,4 @@
+Aufgabe 5:
+
+Schreiben Sie ein Programm, welches vom Benutzer ein Datum abfragt und alle Kunden und Kundinnen ausgibt, die seit diesem Datum etwas bestellt haben. Die Liste soll Anrede, Vorname, Name, Bestelldatum und die Artikel, welche bestellt wurde enthalten.
+Verwalten Sie die Abfrage in einer Liste, die Objekte enthält. Gestalten Sie eine grafische Oberfläche.
